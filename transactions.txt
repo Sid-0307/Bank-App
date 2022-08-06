@@ -1,0 +1,2 @@
+Deposited:800.0	Balance:1300.0
+Withdrew:1000.0	Balance:300.0
